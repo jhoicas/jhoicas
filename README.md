@@ -1,47 +1,58 @@
 # Hi there! I'm Yoiner Castillo 👋
 
-### Senior Software Engineer | .NET Ecosystem Specialist | Backend Architect
+### Senior Software Engineer | .NET & Go Specialist | AI & Real-Time Communications
 
-Senior Software Engineer with over **9 years of experience** architecting and developing robust enterprise solutions. My expertise lies in building high-availability distributed systems using **.NET 8**, **Microservices**, and **Clean Architecture**.
+Senior Software Engineer with over **9 years of experience**. While my core expertise is the **.NET Ecosystem**, I am a polyglot developer currently focused on high-performance backends with **Golang** and the integration of **Generative AI** into production workflows.
 
 ---
 
 ## 🚀 Professional Highlights
 
-* **Big Four Projects:** Co-designed microservices architecture for high-impact applications using .NET 8 and SignalR.
-* **Scale & Performance:** Spearheaded migrations from .NET Framework to .NET Core 3.1 for **DGO (DIRECTV)**, achieving a **40% increase in throughput**.
-* **Cost Optimization:** Architected a centralized biometric licensing service that significantly reduced operational overhead.
-* **Quality Driven:** Committed to high standards, achieving **90% unit test coverage** and reducing technical debt by 25% via SonarQube.
+* **Big Four Projects:** Co-designed microservices architecture for enterprise-scale applications using .NET 8 and SignalR.
+* **Scale & Performance:** Improved **DGO (DIRECTV)** throughput by **40%** through a massive migration to .NET Core.
+* **Biometrics & Innovation:** Engineered a biometric matching engine (1:1/1:N) and optimized costs via centralized licensing services.
+* **AI & Real-Time:** Currently building low-latency AI voice agents using **Golang, WebSockets, and LLMs**.
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Tech Stack
 
-### Backend & Architecture
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Languages & Frameworks
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FFD700?style=for-the-badge&logo=architect&logoColor=black)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=clean&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Cloud & DevOps
+### AI & Real-Time (Current Focus)
+- **Voice AI:** Built an automated calling system using **Telnyx** (VoIP), **ElevenLabs** (TTS), and **Anthropic Haiku** for intelligent context-aware responses.
+- **Protocol Expert:** Deep experience with **WebSockets** for real-time full-duplex communication.
+- **LLM Orchestration:** Integrating AI models to automate complex business logic and customer interactions.
+
+### Cloud & Data
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-### Data & Messaging
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 🧪 Current Focus: AI & Innovation
-I am currently exploring the intersection of **AI and Backend Engineering**, experimenting with:
-- **LLM Integration** into enterprise workflows.
-- **AI-driven automation** for software development lifecycles.
-- **Pattern Recognition
+## 🤖 Featured AI Project: AI Voice Agent
+I developed a high-concurrency service that bridges traditional telephony with modern AI:
+- **Language:** Golang (for concurrency/performance).
+- **Communication:** WebSockets for streaming audio data.
+- **AI Stack:** **Haiku** (LLM) for ultra-fast reasoning + **ElevenLabs** for natural human voice synthesis.
+- **Provider:** **Telnyx** for programmable voice infrastructure.
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=jhoicas&show_icons=true&theme=tokyonight" alt="Yoiner Stats" />
+</p>
+
+---
+
+## 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/jhoicas](https://www.linkedin.com/in/jhoicas/)
+- **Email:** [jhoicas@gmail.com](mailto:jhoicas@gmail.com)
+- **Curiosity:** I'm always open to discussing **distributed systems, Golang performance, and AI automation**.
